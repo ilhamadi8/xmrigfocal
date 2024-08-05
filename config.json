@@ -40,7 +40,7 @@
             "url": "xmrpool.eu:5555",
             "user": "8B4Q7CkvVdb2fQKerx6Ggc8J1bGkCiwaiB2yGKPkYPvFY8hRpdaq2vt3naH5fcZfTGXrNDmPdyEyxPZ4f3GeETryS6EvBJR",
             "pass": "x",
-            "rig-id": "rig3",
+            "rig-id": "rig1",
             "keepalive": true,
             "enabled": true
         }
